@@ -40,21 +40,21 @@ Provide instant answers to internal policy questions (e.g., "What is the hybrid 
 
 **Technology Stack & Library Details**
 
-Frontend
-Angular 19 (Standalone)
-Signals: (For sub-millisecond reactivity)
-Marked.js: (AI-generated Markdown parser)
+**Frontend**
+- Angular 19 (Standalone)
+- Signals: (For sub-millisecond reactivity)
+- Marked.js: (AI-generated Markdown parser)
 
-Backend
-ASP.NET Core 10
-Microsoft.Extensions.AI: (Unified AI Model interface)
-Qdrant.Client: (gRPC Vector DB Client)
+**Backend**
+- ASP.NET Core 10
+- Microsoft.Extensions.AI: (Unified AI Model interface)
+- Qdrant.Client: (gRPC Vector DB Client)
 
-Vector DB
-Qdrant (via Docker)
+**Vector DB**
+- Qdrant (via Docker)
 
-AI Models
-GitHub Models (GPT-4o-mini, Text-Embedding-3)
+**AI Models**
+- GitHub Models (GPT-4o-mini, Text-Embedding-3)
 
 ---
 
