@@ -58,9 +58,9 @@ GitHub Models (GPT-4o-mini, Text-Embedding-3)
 
 ---
 
-![DocuMindAI Web Screenshot](DocuMindAI/assets/image_1.png)
+![Alt text](DocuMindAI/assets/image_1.png)
 
-![DocuMindAI Web Screenshot](DocuMindAI/assets/image_2.png)
+![Alt text](DocuMindAI/assets/image_2.png)
 
 
 
